@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>EVY (Staging)</title>
+        <item>
+            <title>2.0.7</title>
+            <pubDate>Tue, 13 Jan 2026 15:47:12 +0000</pubDate>
+            <sparkle:version>2.0.7</sparkle:version>
+            <sparkle:shortVersionString>2.0.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/EVY-AI/evy-releases/refs/heads/main/EVY-Staging.dmg" length="24924191" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
