@@ -3,6 +3,14 @@
     <channel>
         <title>EVY (Staging)</title>
         <item>
+            <title>2.0.24</title>
+            <pubDate>Mon, 23 Feb 2026 20:21:02 +0000</pubDate>
+            <sparkle:version>2.0.24</sparkle:version>
+            <sparkle:shortVersionString>2.0.24</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/EVY-AI/evy-releases/refs/heads/main/EVY-Staging.dmg" length="31938940" type="application/octet-stream" sparkle:edSignature="yTDEcjyEOe6Yv8IbkMs9JOS1I2yJPiwq1qWZYQ0clYPp8WRKGMFbUwlELySzL9iYaI3YSFhJW5QxzafIIJd1CA=="/>
+        </item>
+        <item>
             <title>2.0.23</title>
             <pubDate>Mon, 23 Feb 2026 13:20:52 +0000</pubDate>
             <sparkle:version>2.0.23</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>2.0.22</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/EVY-AI/evy-releases/refs/heads/main/EVY-Staging.dmg" length="32854792" type="application/octet-stream" sparkle:edSignature="R04Z8qSZxQPjmNAHYgeg4fFSus5g90gbGfM9c0r3i2FouVLEMdKPZYcNJBt1m3Uj9eKfyN/jgDhp1MglecMuDw=="/>
-        </item>
-        <item>
-            <title>2.0.21</title>
-            <pubDate>Sat, 21 Feb 2026 19:16:48 +0000</pubDate>
-            <sparkle:version>2.0.21</sparkle:version>
-            <sparkle:shortVersionString>2.0.21</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/EVY-AI/evy-releases/refs/heads/main/EVY-Staging.dmg" length="32856630" type="application/octet-stream" sparkle:edSignature="AsfSanQPEgNhiIrpunWDz0QBo4OHhrxomaf6wwdqTD+3un8BPCdSmDZDd+eplD7+Q+X8U75tkQSiti/eC9PPCw=="/>
         </item>
     </channel>
 </rss>
