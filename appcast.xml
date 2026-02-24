@@ -8,7 +8,7 @@
             <sparkle:version>2.0.24</sparkle:version>
             <sparkle:shortVersionString>2.0.24</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/EVY-AI/evy-releases/refs/heads/main/EVY-Staging.dmg" length="31938940" type="application/octet-stream" sparkle:edSignature="yTDEcjyEOe6Yv8IbkMs9JOS1I2yJPiwq1qWZYQ0clYPp8WRKGMFbUwlELySzL9iYaI3YSFhJW5QxzafIIJd1CA=="/>
+            <enclosure url="https://github.com/EVY-AI/evy-staging-releases/releases/download/v2.0.24.0/EVY-Staging.dmg" length="32867792" type="application/octet-stream" sparkle:edSignature="QRVyMg6yZk36F9uBundF0/tiMwtivUFkO73c/YzUL1C/7An75v9GLxp/WI8u7ruupv/C+Hi5+7lTVBip4KcRBA=="/>
         </item>
         <item>
             <title>2.0.23</title>
