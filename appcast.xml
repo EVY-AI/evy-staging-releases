@@ -3,6 +3,23 @@
     <channel>
         <title>EVY (Staging)</title>
         <item>
+            <title>2.0.25</title>
+            <pubDate>Wed, 25 Feb 2026 15:17:11 +0000</pubDate>
+            <sparkle:version>2.0.25</sparkle:version>
+            <sparkle:shortVersionString>2.0.25</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>What's New</h2>
+<ul>
+  <li><strong>Hide from Dock</strong> - Restored the option to hide EVY from the macOS Dock, giving you control over your Dock visibility preferences</li>
+</ul>
+<h2>Bug Fixes</h2>
+<ul>
+  <li>Fixed an issue where the app could freeze when stopping a meeting recording</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/EVY-AI/evy-staging-releases/releases/download/v2.0.25.0/EVY-Staging.dmg" length="32872335" type="application/octet-stream" sparkle:edSignature="Xys0ZZ4FPr8MrSyWrqj+5O0Sr39qASzh9wMqwQACkGbgCClAm0Dp3laEBaEANR4H2kUIae/BVlHCFGyIXy4jDg=="/>
+        </item>
+        <item>
             <title>2.0.24</title>
             <pubDate>Mon, 23 Feb 2026 20:21:02 +0000</pubDate>
             <sparkle:version>2.0.24</sparkle:version>
@@ -17,14 +34,6 @@
             <sparkle:shortVersionString>2.0.23</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/EVY-AI/evy-releases/refs/heads/main/EVY-Staging.dmg" length="32866202" type="application/octet-stream" sparkle:edSignature="gk8+zvXRvdMkizVtZqocuAOcX07rAHdkoxqzjZ9NJMW2aZEqhQ3wXB6KUcUVivfF+p0tIT505e+z9bGnnNLfDA=="/>
-        </item>
-        <item>
-            <title>2.0.22</title>
-            <pubDate>Sat, 21 Feb 2026 20:06:46 +0000</pubDate>
-            <sparkle:version>2.0.22</sparkle:version>
-            <sparkle:shortVersionString>2.0.22</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/EVY-AI/evy-releases/refs/heads/main/EVY-Staging.dmg" length="32854792" type="application/octet-stream" sparkle:edSignature="R04Z8qSZxQPjmNAHYgeg4fFSus5g90gbGfM9c0r3i2FouVLEMdKPZYcNJBt1m3Uj9eKfyN/jgDhp1MglecMuDw=="/>
         </item>
     </channel>
 </rss>
