@@ -3,6 +3,27 @@
     <channel>
         <title>EVY (Staging)</title>
         <item>
+            <title>2.0.27</title>
+            <pubDate>Thu, 05 Mar 2026 13:53:59 +0000</pubDate>
+            <sparkle:version>2.0.27</sparkle:version>
+            <sparkle:shortVersionString>2.0.27</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>What's New</h2>
+<ul>
+  <li><strong>Hotkey Selection Improvements</strong> - The hotkey selection screen now shows clear instructions on how to speak with EVY. We've also improved the visual layout to make it clearer which modifier keys (left or right) to select, and updated the default hotkey selection.</li>
+  <li><strong>Improved Onboarding Guidance</strong> - Reworked the onboarding link to make it more obvious where to find additional help and information.</li>
+</ul>
+
+<h2>Bug Fixes</h2>
+<ul>
+  <li><strong>Fixed Onboarding Loop</strong> - Resolved an issue where users would be dropped back into the onboarding flow after completing the context interview.</li>
+  <li><strong>Voice Pill Can Now Be Closed</strong> - Fixed a bug where the retrying voice pill could not be dismissed by clicking the close button.</li>
+  <li><strong>Recording Capsule Hiding</strong> - Added ability to temporarily hide the recording capsule for one hour for better screen focus.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/EVY-AI/evy-staging-releases/releases/download/v2.0.27.0/EVY-Staging.dmg" length="33069661" type="application/octet-stream" sparkle:edSignature="njuNpJi9ziP49Hy0R7+AR3g7d1aiNGYVeVs4l0z49nUb8WTUW2OzwFkSOKCWWP9DOfgA1Qj1AQOGSELkBOnnAg=="/>
+        </item>
+        <item>
             <title>2.0.26</title>
             <pubDate>Mon, 02 Mar 2026 12:50:24 +0000</pubDate>
             <sparkle:version>2.0.26</sparkle:version>
@@ -40,14 +61,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/EVY-AI/evy-staging-releases/releases/download/v2.0.25.0/EVY-Staging.dmg" length="32872335" type="application/octet-stream" sparkle:edSignature="Xys0ZZ4FPr8MrSyWrqj+5O0Sr39qASzh9wMqwQACkGbgCClAm0Dp3laEBaEANR4H2kUIae/BVlHCFGyIXy4jDg=="/>
-        </item>
-        <item>
-            <title>2.0.24</title>
-            <pubDate>Mon, 23 Feb 2026 20:21:02 +0000</pubDate>
-            <sparkle:version>2.0.24</sparkle:version>
-            <sparkle:shortVersionString>2.0.24</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/EVY-AI/evy-staging-releases/releases/download/v2.0.24.0/EVY-Staging.dmg" length="32867792" type="application/octet-stream" sparkle:edSignature="QRVyMg6yZk36F9uBundF0/tiMwtivUFkO73c/YzUL1C/7An75v9GLxp/WI8u7ruupv/C+Hi5+7lTVBip4KcRBA=="/>
         </item>
     </channel>
 </rss>
