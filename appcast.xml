@@ -3,6 +3,19 @@
     <channel>
         <title>EVY (Staging)</title>
         <item>
+            <title>2.0.28</title>
+            <pubDate>Sat, 07 Mar 2026 09:48:46 +0000</pubDate>
+            <sparkle:version>2.0.28</sparkle:version>
+            <sparkle:shortVersionString>2.0.28</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>What's New</h2>
+<ul>
+  <li><strong>Improved Microphone Selection</strong> - Enhanced the algorithm for selecting redundant recording input devices, resulting in more reliable audio capture across different hardware configurations</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/EVY-AI/evy-staging-releases/releases/download/v2.0.28.0/EVY-Staging.dmg" length="33115263" type="application/octet-stream" sparkle:edSignature="TOm/KmNDxdbqc8hPRw8xp33oroKDbcQAVjYX5LBV5H5+hyjrE97eD1R1J13Y8zY/5q+O54yM3VMZ6qHBd94FCQ=="/>
+        </item>
+        <item>
             <title>2.0.27</title>
             <pubDate>Thu, 05 Mar 2026 13:53:59 +0000</pubDate>
             <sparkle:version>2.0.27</sparkle:version>
@@ -52,23 +65,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/EVY-AI/evy-staging-releases/releases/download/v2.0.26.0/EVY-Staging.dmg" length="32873643" type="application/octet-stream" sparkle:edSignature="NpYjyF2pV6Es3X7GaZlilqYG7raJHiw+iN7qCjWuaPnPtxFzX0W70EW2rE3y52nZoAVxtmh88+rukkUffDliBg=="/>
-        </item>
-        <item>
-            <title>2.0.25</title>
-            <pubDate>Wed, 25 Feb 2026 15:17:11 +0000</pubDate>
-            <sparkle:version>2.0.25</sparkle:version>
-            <sparkle:shortVersionString>2.0.25</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>What's New</h2>
-<ul>
-  <li><strong>Hide from Dock</strong> - Restored the option to hide EVY from the macOS Dock, giving you control over your Dock visibility preferences</li>
-</ul>
-<h2>Bug Fixes</h2>
-<ul>
-  <li>Fixed an issue where the app could freeze when stopping a meeting recording</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/EVY-AI/evy-staging-releases/releases/download/v2.0.25.0/EVY-Staging.dmg" length="32872335" type="application/octet-stream" sparkle:edSignature="Xys0ZZ4FPr8MrSyWrqj+5O0Sr39qASzh9wMqwQACkGbgCClAm0Dp3laEBaEANR4H2kUIae/BVlHCFGyIXy4jDg=="/>
         </item>
     </channel>
 </rss>
