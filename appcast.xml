@@ -3,6 +3,23 @@
     <channel>
         <title>EVY (Staging)</title>
         <item>
+            <title>2.0.29</title>
+            <pubDate>Tue, 10 Mar 2026 14:05:39 +0000</pubDate>
+            <sparkle:version>2.0.29</sparkle:version>
+            <sparkle:shortVersionString>2.0.29</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>What's New</h2>
+<ul>
+  <li><strong>Team Invitations for Existing Users</strong> - You can now accept team invitations even if you already have an EVY account, making it easy to join new teams without issues</li>
+</ul>
+<h2>Bug Fixes</h2>
+<ul>
+  <li>Fixed a problem where duplicate voice pill copies could appear and persist on screen</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/EVY-AI/evy-staging-releases/releases/download/v2.0.29.0/EVY-Staging.dmg" length="33116716" type="application/octet-stream" sparkle:edSignature="Ficktv+ZEnc9WekOUU5CS56EKwE/+W2ELvjIVMdeQSmw/tOUJyO6TLVI9bhDzLQIJYBoL6r55g9NkRz0rskaCQ=="/>
+        </item>
+        <item>
             <title>2.0.28</title>
             <pubDate>Sat, 07 Mar 2026 09:48:46 +0000</pubDate>
             <sparkle:version>2.0.28</sparkle:version>
@@ -43,28 +60,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/EVY-AI/evy-staging-releases/releases/download/v2.0.27.0/EVY-Staging.dmg" length="33105425" type="application/octet-stream" sparkle:edSignature="ELhfXqXOnlkVGBk+3Bjnh4zMASsxPK7uvT79bLgbnAPxTAhKcZ1KhLxdFA3BOENkbkm0XiiHTKDuVNqwT/anAw=="/>
-        </item>
-        <item>
-            <title>2.0.26</title>
-            <pubDate>Mon, 02 Mar 2026 12:50:24 +0000</pubDate>
-            <sparkle:version>2.0.26</sparkle:version>
-            <sparkle:shortVersionString>2.0.26</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>What's New</h2>
-<ul>
-  <li><strong>Improved AI Dictation</strong> - Fine-tuned the AI-enhanced dictation to preserve meaningful phrases like "I believe" and "maybe" while still removing filler sounds, resulting in more natural and accurate transcriptions</li>
-  <li><strong>Extended Interview Sessions</strong> - Interviews and secondary agents no longer time out after brief inactivity, giving you more time to think and respond at your own pace</li>
-</ul>
-<h2>Bug Fixes</h2>
-<ul>
-  <li>Fixed an issue where the Settings window would not reappear after being closed during the onboarding flow</li>
-  <li>Fixed a crash that could occur when reopening previously closed windows</li>
-  <li>Fixed the update button in the menu bar tray not being clickable when a new release is available</li>
-  <li>Fixed a type error that could cause AI-enhanced dictation to malfunction</li>
-  <li>Improved server connection stability by relaxing timeout thresholds to reduce false disconnections</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/EVY-AI/evy-staging-releases/releases/download/v2.0.26.0/EVY-Staging.dmg" length="32873643" type="application/octet-stream" sparkle:edSignature="NpYjyF2pV6Es3X7GaZlilqYG7raJHiw+iN7qCjWuaPnPtxFzX0W70EW2rE3y52nZoAVxtmh88+rukkUffDliBg=="/>
         </item>
     </channel>
 </rss>
