@@ -17,7 +17,7 @@
   <li>Fixed a problem where duplicate voice pill copies could appear and persist on screen</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/EVY-AI/evy-staging-releases/releases/download/v2.0.29.0/EVY-Staging.dmg" length="33116716" type="application/octet-stream" sparkle:edSignature="Ficktv+ZEnc9WekOUU5CS56EKwE/+W2ELvjIVMdeQSmw/tOUJyO6TLVI9bhDzLQIJYBoL6r55g9NkRz0rskaCQ=="/>
+            <enclosure url="https://github.com/EVY-AI/evy-staging-releases/releases/download/v2.0.29.0/EVY-Staging.dmg" length="33116942" type="application/octet-stream" sparkle:edSignature="fZch9xZCM2SHgeZO5dJz+hRB+9LeRSqDpdrc+LqZNZ5rU4Bbo/D29fEN9gDIHfzLN3CaD+nBS0HmwM+KLZTOAA=="/>
         </item>
         <item>
             <title>2.0.28</title>
