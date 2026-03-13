@@ -3,6 +3,23 @@
     <channel>
         <title>EVY (Staging)</title>
         <item>
+            <title>2.0.30</title>
+            <pubDate>Fri, 13 Mar 2026 11:35:38 +0000</pubDate>
+            <sparkle:version>2.0.30</sparkle:version>
+            <sparkle:shortVersionString>2.0.30</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Bug Fixes</h2>
+<ul>
+  <li>Improved onboarding interview flow with better wording and more accurate context generation</li>
+  <li>Fixed an issue where meeting recordings could be lost if the app was quit or crashed during recording</li>
+  <li>Fixed missing meeting recordings caused by a race condition</li>
+  <li>Improved reliability of the dictation process so that individual failures no longer interrupt the entire workflow</li>
+  <li>General improvements to retry logic for more stable recording uploads</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/EVY-AI/evy-staging-releases/releases/download/v2.0.30.0/EVY-Staging.dmg" length="33121902" type="application/octet-stream" sparkle:edSignature="EV7jBWGFea6hrLYspaDaX32zn/IIzVZ+xcBBxburKBFBYOaDtvAGiEMVHHUQczR6rQLq5Dl4k799DdFeoAb7Cg=="/>
+        </item>
+        <item>
             <title>2.0.29</title>
             <pubDate>Tue, 10 Mar 2026 14:05:39 +0000</pubDate>
             <sparkle:version>2.0.29</sparkle:version>
@@ -31,35 +48,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/EVY-AI/evy-staging-releases/releases/download/v2.0.28.0/EVY-Staging.dmg" length="33115263" type="application/octet-stream" sparkle:edSignature="TOm/KmNDxdbqc8hPRw8xp33oroKDbcQAVjYX5LBV5H5+hyjrE97eD1R1J13Y8zY/5q+O54yM3VMZ6qHBd94FCQ=="/>
-        </item>
-        <item>
-            <title>2.0.27</title>
-            <pubDate>Thu, 05 Mar 2026 13:53:59 +0000</pubDate>
-            <sparkle:version>2.0.27</sparkle:version>
-            <sparkle:shortVersionString>2.0.27</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>What's New</h2>
-<ul>
-  <li><strong>Credit Limits</strong> - Added enforcement for free plan credit limits. When you run out of credits, AI-based features will be limited.</li>
-  <li><strong>Improved Hotkey Selection</strong> - Updated the hotkey selection screen with clearer instructions on how to speak with EVY. The visual layout now makes it more obvious which modifier keys (left or right) to select.</li>
-  <li><strong>System Audio Improvements</strong> - Enhanced system audio capture for meeting recordings, with redundant recording of input and output to improve reliability during Zoom calls.</li>
-  <li><strong>Enhanced AI Transcription</strong> - Improved AI-enhanced dictation rules to preserve more meaningful words while maintaining accuracy.</li>
-  <li><strong>Microphone Setup</strong> - Prioritized the default Mac microphone selection and added system audio monitoring as part of the microphone setup process.</li>
-  <li><strong>Empty Recording Handling</strong> - Meeting recordings with very short or empty audio files now show an "empty" status instead of failing completely.</li>
-  <li><strong>Recording Capsule Hiding</strong> - Added ability to temporarily hide the recording capsule for one hour to keep your screen focused.</li>
-</ul>
-<h2>Bug Fixes</h2>
-<ul>
-  <li>Fixed an issue where users would be dropped back into the onboarding flow after completing the context interview.</li>
-  <li>Fixed a bug where the meeting recording voice pill could get stuck on animation.</li>
-  <li>Fixed an issue where the retrying voice pill could not be dismissed by clicking the close button.</li>
-  <li>Fixed a bug where meeting recordings would fail when dictating or using the agent during recording.</li>
-  <li>Fixed how the voice recording pill displays when using team accounts.</li>
-  <li>Hid the meeting recording force stop window for a cleaner experience.</li>
-  <li>Relaxed timeouts to give more space for the server when processing large amounts of audio packets.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/EVY-AI/evy-staging-releases/releases/download/v2.0.27.0/EVY-Staging.dmg" length="33105425" type="application/octet-stream" sparkle:edSignature="ELhfXqXOnlkVGBk+3Bjnh4zMASsxPK7uvT79bLgbnAPxTAhKcZ1KhLxdFA3BOENkbkm0XiiHTKDuVNqwT/anAw=="/>
         </item>
     </channel>
 </rss>
