@@ -3,6 +3,25 @@
     <channel>
         <title>EVY (Staging)</title>
         <item>
+            <title>2.0.34</title>
+            <pubDate>Tue, 21 Apr 2026 15:59:06 +0100</pubDate>
+            <sparkle:version>2.0.34</sparkle:version>
+            <sparkle:shortVersionString>2.0.34</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>What's New</h2>
+<ul>
+  <li><strong>Out of Credits Notification</strong> - The application now displays a clear, user-friendly message when credits run out, rather than a generic server error.</li>
+</ul>
+<h2>Bug Fixes</h2>
+<ul>
+  <li>Fixed an issue that could cause the application to freeze or hang when starting or using dictation.</li>
+  <li>Fixed overlay panel display behavior when using full-screen applications.</li>
+  <li>Fixed an issue with the meeting recording animation.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/EVY-AI/evy-staging-releases/releases/download/v2.0.34/EVY-Staging.dmg" length="23457906" type="application/octet-stream" sparkle:edSignature="gBBqms1VryWlax4xLe7vOMGFQ1yUs2lt5fk11XTf21nYC4LLENCAdbPCco0MldX6ZddKcMeJA7xJf6m2bgQ5BQ=="/>
+        </item>
+        <item>
             <title>2.0.33</title>
             <pubDate>Thu, 16 Apr 2026 14:59:06 +0100</pubDate>
             <sparkle:version>2.0.33</sparkle:version>
@@ -35,19 +54,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/EVY-AI/evy-staging-releases/releases/download/v2.0.32.0/EVY-Staging.dmg" length="23060853" type="application/octet-stream" sparkle:edSignature="NBd5wT1T1fkai5mCQqn3Z3d6IAYRToVbLHo7hooBXZv9RbISvE4AbNGycRRiH2Aa7XjbO7HApLzGv+rOt0LQAw=="/>
-        </item>
-        <item>
-            <title>2.0.31</title>
-            <pubDate>Tue, 14 Apr 2026 10:45:36 +0100</pubDate>
-            <sparkle:version>2.0.31</sparkle:version>
-            <sparkle:shortVersionString>2.0.31</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Bug Fixes</h2>
-<ul>
-  <li>Fixed audio sound effects for dictation start, dictation stop, and error notifications</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/EVY-AI/evy-staging-releases/releases/download/v2.0.31.0/EVY-Staging.dmg" length="22399539" type="application/octet-stream" sparkle:edSignature="N4eHqQujPm54I42e+WdldjlHmf97u3bIstQePevf49UbkT6oMIoWCBl/haGwqy99YhG4nl9/ed93eWn2T3L6Aw=="/>
         </item>
     </channel>
 </rss>
