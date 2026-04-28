@@ -3,6 +3,22 @@
     <channel>
         <title>EVY (Staging)</title>
         <item>
+            <title>2.0.35</title>
+            <pubDate>Tue, 28 Apr 2026 10:20:22 +0100</pubDate>
+            <sparkle:version>2.0.35</sparkle:version>
+            <sparkle:shortVersionString>2.0.35</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Bug Fixes</h2>
+<ul>
+  <li>Improved overlay visibility and positioning when switching between fullscreen apps and different Spaces.</li>
+  <li>Fixed an issue that caused slow motion audio or connection failures when using AirPods.</li>
+  <li>Improved reliability of audio capture when the selected microphone is disconnected.</li>
+  <li>Improved stability of AirPods audio processing and network monitoring during disconnections.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/EVY-AI/evy-staging-releases/releases/download/v2.0.35/EVY-Staging.dmg" length="22556183" type="application/octet-stream" sparkle:edSignature="E/JSaK6U3ZpIUjkLs12jsSTMdpzY69UJTxPEgE5nVRSVbH19dvOHkF+Mcyd0V0aBaxMEXZoa1VOZ7XK3i6SDDQ=="/>
+        </item>
+        <item>
             <title>2.0.34</title>
             <pubDate>Tue, 21 Apr 2026 15:59:06 +0100</pubDate>
             <sparkle:version>2.0.34</sparkle:version>
@@ -40,20 +56,6 @@
   <li>Enhanced stability when switching between audio input devices during a session</li>
 </ul>
 ]]></description>
-        </item>
-        <item>
-            <title>2.0.32</title>
-            <pubDate>Wed, 15 Apr 2026 14:59:46 +0100</pubDate>
-            <sparkle:version>2.0.32</sparkle:version>
-            <sparkle:shortVersionString>2.0.32</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Bug Fixes</h2>
-<ul>
-  <li><strong>Improved microphone switching</strong> - Fixed an issue where switching audio input devices during recording could cause incorrect behavior or audio capture failures</li>
-  <li><strong>More reliable device handling</strong> - Improved how the app handles audio device changes during meeting recordings, ensuring smoother transitions when devices are connected or disconnected</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/EVY-AI/evy-staging-releases/releases/download/v2.0.32.0/EVY-Staging.dmg" length="23060853" type="application/octet-stream" sparkle:edSignature="NBd5wT1T1fkai5mCQqn3Z3d6IAYRToVbLHo7hooBXZv9RbISvE4AbNGycRRiH2Aa7XjbO7HApLzGv+rOt0LQAw=="/>
         </item>
     </channel>
 </rss>
