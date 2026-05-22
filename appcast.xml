@@ -3,6 +3,23 @@
     <channel>
         <title>EVY (Staging)</title>
         <item>
+            <title>2.0.37</title>
+            <pubDate>Fri, 22 May 2026 13:04:08 +0100</pubDate>
+            <sparkle:version>2.0.37</sparkle:version>
+            <sparkle:shortVersionString>2.0.37</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>What's New</h2>
+<ul>
+  <li><strong>Meeting Recording Optimization</strong> - Reduced resource utilization during meeting recordings by capping parallel audio capture streams. The app now uses a single built-in fallback microphone (instead of up to four redundant devices) and limits per-app system audio capture to the two most active and relevant apps. This significantly improves macOS system responsiveness and CPU usage during active sessions.</li>
+</ul>
+<h2>Bug Fixes</h2>
+<ul>
+  <li>Fixed a display bug where the recording overlay panel could become invisible or fail to render after the macOS system wakes from sleep due to an animator failure.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/EVY-AI/evy-staging-releases/releases/download/v2.0.37/EVY-Staging.dmg" length="22588222" type="application/octet-stream" sparkle:edSignature="oGxFfMaZa1kIRdaJuzSrZ+gv0RnzCBcd5yEQPme2X47x3C5e3IERBapTV0rpO4sV0BjCwYTHtQV8teUf1U7CAA=="/>
+        </item>
+        <item>
             <title>2.0.36</title>
             <pubDate>Sat, 16 May 2026 17:08:00 +0100</pubDate>
             <sparkle:version>2.0.36</sparkle:version>
@@ -36,25 +53,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/EVY-AI/evy-staging-releases/releases/download/v2.0.35/EVY-Staging.dmg" length="22556183" type="application/octet-stream" sparkle:edSignature="E/JSaK6U3ZpIUjkLs12jsSTMdpzY69UJTxPEgE5nVRSVbH19dvOHkF+Mcyd0V0aBaxMEXZoa1VOZ7XK3i6SDDQ=="/>
-        </item>
-        <item>
-            <title>2.0.34</title>
-            <pubDate>Tue, 21 Apr 2026 15:59:06 +0100</pubDate>
-            <sparkle:version>2.0.34</sparkle:version>
-            <sparkle:shortVersionString>2.0.34</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>What's New</h2>
-<ul>
-  <li><strong>Out of Credits Notification</strong> - The application now displays a clear, user-friendly message when credits run out, rather than a generic server error.</li>
-</ul>
-<h2>Bug Fixes</h2>
-<ul>
-  <li>Fixed an issue that could cause the application to freeze or hang when starting or using dictation.</li>
-  <li>Fixed overlay panel display behavior when using full-screen applications.</li>
-  <li>Fixed an issue with the meeting recording animation.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/EVY-AI/evy-staging-releases/releases/download/v2.0.34/EVY-Staging.dmg" length="23457906" type="application/octet-stream" sparkle:edSignature="gBBqms1VryWlax4xLe7vOMGFQ1yUs2lt5fk11XTf21nYC4LLENCAdbPCco0MldX6ZddKcMeJA7xJf6m2bgQ5BQ=="/>
         </item>
     </channel>
 </rss>
