@@ -13,7 +13,7 @@
   <li><strong>System Audio Error Recovery</strong> - Fixed a critical issue where the macOS app could freeze permanently on dictation start if the system audio daemon (<code>coreaudiod</code>) became unresponsive. The app now detects this condition and gracefully displays a "System Audio Error" message, allowing you to retry without needing to force-quit the application.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/EVY-AI/evy-staging-releases/releases/download/v2.0.38/EVY-Staging.dmg" length="22598170" type="application/octet-stream" sparkle:edSignature="9vpXeT8MCTc3Midle1Sf9UIuo/3PxLLtrPGH1mkeb1CAFAe+6neC2PKpu1B4rG/qWGw3xa2iADsZISjiIAFYAQ=="/>
+            <enclosure url="https://github.com/EVY-AI/evy-staging-releases/releases/download/v2.0.38/EVY-Staging.dmg" length="22598466" type="application/octet-stream" sparkle:edSignature="MLUKuW/sWY6Fz9Prb9sPe6Z+P/5Zl1ut2GyTXqwhpo0qqEUe2ICPVX5r6dzUyGPqPVkEjPtaU4EA4wFjLRflAQ=="/>
         </item>
         <item>
             <title>2.0.37</title>
