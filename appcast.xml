@@ -3,6 +3,20 @@
     <channel>
         <title>EVY (Staging)</title>
         <item>
+            <title>2.0.46</title>
+            <pubDate>Mon, 20 Jul 2026 12:55:20 +0100</pubDate>
+            <sparkle:version>2.0.46</sparkle:version>
+            <sparkle:shortVersionString>2.0.46</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>What's New</h2>
+<ul>
+  <li><strong>Simpler, faster setup</strong> - Setting up EVY on your Mac is now a short, focused flow: sign in, grant permissions, choose your activation key, and try a few dictation examples. The onboarding interview no longer happens inside the app — it now runs in your browser, so the app gets you dictating sooner.</li>
+  <li><strong>Voice conversations moved to the web</strong> - Interviews, feedback sessions, and idea discussions now run directly in your browser instead of opening the macOS app. The app stays focused on what it does best: dictation and meeting recording.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/EVY-AI/evy-staging-releases/releases/download/v2.0.46/EVY-Staging.dmg" length="34218528" type="application/octet-stream" sparkle:edSignature="Tr5d1K6yxjoriGSrPTvSsVuZ1jlyDbKEiS9ZAnQ3Rsmd3d921sACuNxPpPjKH3MtpI8asDlq35McBwiG0b0sBA=="/>
+        </item>
+        <item>
             <title>2.0.38</title>
             <pubDate>Tue, 26 May 2026 15:41:24 +0100</pubDate>
             <sparkle:version>2.0.38</sparkle:version>
@@ -31,25 +45,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/EVY-AI/evy-staging-releases/releases/download/v2.0.37/EVY-Staging.dmg" length="22588222" type="application/octet-stream" sparkle:edSignature="oGxFfMaZa1kIRdaJuzSrZ+gv0RnzCBcd5yEQPme2X47x3C5e3IERBapTV0rpO4sV0BjCwYTHtQV8teUf1U7CAA=="/>
-        </item>
-        <item>
-            <title>2.0.36</title>
-            <pubDate>Sat, 16 May 2026 17:08:00 +0100</pubDate>
-            <sparkle:version>2.0.36</sparkle:version>
-            <sparkle:shortVersionString>2.0.36</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>What's New</h2>
-<ul>
-  <li><strong>Continuity Camera</strong> - Improved detection and filtering of Continuity Camera microphones.</li>
-  <li><strong>Repeat Dictation</strong> - You can now ask the speaking agent to repeat or paste your latest voice dictation.</li>
-</ul>
-<h2>Bug Fixes</h2>
-<ul>
-  <li>Fixed an issue where system and per-app audio could be silently dropped during meeting recordings.</li>
-  <li>Improved the stability of auxiliary panels to prevent display glitches during show and hide actions.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/EVY-AI/evy-staging-releases/releases/download/v2.0.36/EVY-Staging.dmg" length="22577796" type="application/octet-stream" sparkle:edSignature="xOOx19PP9SNHKstvrH9UWDWj9/qQNHKep5lm64b6eRHPB9lZJVYPE+NYHuBLbsV6ySKqChgA6hqmg8vmwABLAg=="/>
         </item>
     </channel>
 </rss>
